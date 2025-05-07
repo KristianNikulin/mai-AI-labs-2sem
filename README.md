@@ -3,6 +3,8 @@
 
 Лабораторные работы 6-8 по курсу "Методы, средства и технологии мультимедиа"
 
+*Файл с 7 лр открывается только в google colab
+
 ## Датасеты
 
 - The Oxford-IIIT Pet Dataset - https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset/data
